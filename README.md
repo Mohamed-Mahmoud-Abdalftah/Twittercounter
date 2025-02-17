@@ -22,4 +22,4 @@ This project implements a UI component that allows users to input text and track
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/twitter-character-count.git](https://github.com/Mohamed-Mahmoud-Abdalftah/Twittercounter/)
+   git clone https://github.com/Mohamed-Mahmoud-Abdalftah/Twittercounter/
