@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">home</string>
+    <string name="search">Search</string>
+    <string name="cancel">Cancel</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="related_links">Related Links</string>
+    <string name="comics">Comics</string>
+    <string name="series">Series</string>
+    <string name="stories">Stories</string>
+    <string name="events">Events</string>
+    <string name="post_tweet">Post Tweet</string>
+    <string name="characters_typed">Characters Typed</string>
+    <string name="characters_remaining">Characters Remaining</string>
+    <string name="_280">%1$s/280</string>
+</resources>
